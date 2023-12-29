@@ -1,1 +1,1 @@
-s
+# Pandas in-class exercise images
